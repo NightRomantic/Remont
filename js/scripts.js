@@ -93,7 +93,6 @@ $(document).ready(function() {
 			$.ajax({
 				type: "POST",
 				url: url,
-				dataType: "json",
 				data: "name="+name+"&phone="+phone+"&"+sbt+"="+submit+"&email="+email+"&ques="+ques+"&formname="+formname+"&ref="+ref
 			}).always(function() {
 				if(page == null) { document.location.href = sbt+'.php'; }
