@@ -4,8 +4,7 @@
   font-family:'BlissPro-Light';
   src:url('../fonts/BlissPro-Light.eot?') format('eot'), 
       url('../fonts/BlissPro-Light.otf') format('opentype'),
-      url('../fonts/BlissPro-Light.woff') format('woff'), 
-      url('http://xn----ctbksiehhpy.xn--p1ai/fonts/BlissPro-Light.svg') format('svg');
+      url('../fonts/BlissPro-Light.woff') format('woff');
   font-style:normal;
   font-weight:normal;
 }
@@ -14,8 +13,7 @@
   font-family:'BlissPro-Medium';
   src:url('../fonts/BlissPro-Medium.eot?') format('eot'), 
       url('../fonts/BlissPro-Medium.otf') format('opentype'),
-      url('../fonts/BlissPro-Medium.woff') format('woff'), 
-      url('http://xn----ctbksiehhpy.xn--p1ai/fonts/BlissPro-Medium.svg') format('svg');
+      url('../fonts/BlissPro-Medium.woff') format('woff');
   font-style:normal;
   font-weight:normal;
 }
@@ -24,8 +22,7 @@
   font-family:'BlissPro-Bold';
   src:url('../fonts/BlissPro-Bold.eot?') format('eot'), 
       url('../fonts/BlissPro-Bold.otf') format('opentype'),
-      url('../fonts/BlissPro-Bold.woff') format('woff'), 
-      url('http://xn----ctbksiehhpy.xn--p1ai/fonts/BlissPro-Bold.svg') format('svg');
+      url('../fonts/BlissPro-Bold.woff') format('woff');
   font-style:normal;
   font-weight:normal;
 }
@@ -34,8 +31,7 @@
   font-family:'BlissPro-Italic';
   src:url('../fonts/BlissPro-Italic.eot?') format('eot'), 
       url('../fonts/BlissPro-Italic.otf') format('opentype'),
-      url('../fonts/BlissPro-Italic.woff') format('woff'), 
-      url('http://xn----ctbksiehhpy.xn--p1ai/fonts/BlissPro-Italic.svg') format('svg');
+      url('../fonts/BlissPro-Italic.woff') format('woff');
   font-style:normal;
   font-weight:normal;
 }
@@ -44,9 +40,7 @@
   font-family:'BlissPro-LightItalic';
   src:url('../fonts/BlissPro-LightItalic.eot?') format('eot'), 
       url('../fonts/BlissPro-LightItalic.otf') format('opentype'),
-      url('../fonts/BlissPro-LightItalic.woff') format('woff'), 
-      url('http://xn----ctbksiehhpy.xn--p1ai/fonts/BlissPro-LightItalic.ttf') format('truetype'),
-      url('http://xn----ctbksiehhpy.xn--p1ai/fonts/BlissPro-LightItalic.svg') format('svg');
+      url('../fonts/BlissPro-LightItalic.woff') format('woff');
   font-style:normal;
   font-weight:normal;
 }
@@ -54,8 +48,7 @@
 @font-face {
   font-family:'PFDinTextCondPro-Bold';
   src:url('../fonts/PFDinTextCondPro-Bold.eot?') format('eot'), 
-      url('../fonts/PFDinTextCondPro-Bold.woff') format('woff'), 
-      url('http://xn----ctbksiehhpy.xn--p1ai/fonts/PFDinTextCondPro-Bold.svg') format('svg');
+      url('../fonts/PFDinTextCondPro-Bold.woff') format('woff');
   font-style:normal;
   font-weight:normal;
 }
