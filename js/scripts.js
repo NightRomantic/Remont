@@ -106,7 +106,7 @@ $(document).ready(function() {
 /* Timer */
 function timer() {
   var now = new Date();
-  var newDate = new Date('2018-05-26');
+  var newDate = new Date('2018-06-04');
   var totalRemains = (newDate.getTime()-now.getTime());
   var Days = (parseInt(parseInt(totalRemains/1000)/(24*3600)));
   var Hours = (parseInt((parseInt(totalRemains/1000) - Days*24*3600)/3600));
